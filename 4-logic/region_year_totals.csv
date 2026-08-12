@@ -1,0 +1,19 @@
+Region,Year,TotalDeaths,MeanDeaths,NCountries
+Africa,2000,1067380,24258.6,44
+Africa,2010,765590,17399.8,44
+Africa,2018,462590,10513.4,44
+Americas,2000,58680,2551.3,23
+Americas,2010,42690,1856.1,23
+Americas,2018,36080,1503.3,24
+Eastern Mediterranean,2000,4060,253.8,16
+Eastern Mediterranean,2010,9880,617.5,16
+Eastern Mediterranean,2018,15910,994.4,16
+Europe,2000,15000,428.6,35
+Europe,2010,22900,654.3,35
+Europe,2018,14680,444.8,33
+South-East Asia,2000,62500,8928.6,7
+South-East Asia,2010,64500,9214.3,7
+South-East Asia,2018,65590,9370.0,7
+Western Pacific,2000,14200,1775.0,8
+Western Pacific,2010,15700,1744.4,9
+Western Pacific,2018,10800,1200.0,9

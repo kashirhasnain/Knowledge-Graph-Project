@@ -1,4 +1,4 @@
-# HIV/AIDS Death-Rate Knowledge Graph — code bundle
+# HIV/AIDS Death-Rate Knowledge Graph
 
 ## How to run
 1. `pip install rdflib pandas matplotlib`
